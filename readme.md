@@ -7,5 +7,5 @@
 * Entendo o comando git retore, tanto em changes quanto em staged.
 * Apredendo novo comando **git push**
 * Entendendo o git pull
-
+* Aprendendo o git fetch
 
